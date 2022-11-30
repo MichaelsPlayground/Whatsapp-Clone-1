@@ -1,6 +1,8 @@
 # Whatsapp-Clone
 Chatting app like Whatsapp created by java and firebase
 
+Original source code: https://github.com/vijender8601/Whatsapp-Clone
+
 # Show some ❤️ and star the repo to support the project.
 
 # Note
